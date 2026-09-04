@@ -1,1 +1,1 @@
-It's about me a beginner's practise on C language
+It's about my practice as a beginner in C
